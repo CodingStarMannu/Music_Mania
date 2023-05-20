@@ -762,7 +762,7 @@ input[type=radio] {
     margin-top: 2rem;
 }
 #popular-artists-image-4{
-	background-image: url("media/alka.png");
+	background-image: url("media/sonu.png");
 	background-size: cover;
 	height:100px;
 	width: 100px;
@@ -964,7 +964,7 @@ input[type=radio] {
 .genre-img-container {
     width: 32%;
     height: 9rem;
-    background-image: url(../media/party.jpg);
+    background-image: url("media/party.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
@@ -993,11 +993,11 @@ input[type=radio] {
 }
 
 .genre-img-2 {
-    background-image: url("../media/electronic.jpg");
+    background-image: url("media/electronic.jpg");
 }
 
 .genre-img-3 {
-    background-image: url("../media/road-trip.jpg");
+    background-image: url("media/road-trip.jpg");
 }
 
 
