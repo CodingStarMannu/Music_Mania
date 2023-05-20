@@ -876,7 +876,7 @@ input[type=radio] {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url(../media/stations-img.png);
+    background-image: url("media/stations-img.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -909,7 +909,7 @@ input[type=radio] {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url(../media/love.jpg);
+    background-image: url("media/love.jpg");
     background-position: center;
     background-size: 100% 100%;
     background-size: cover;
@@ -917,23 +917,23 @@ input[type=radio] {
 }
 
 .img-2 {
-    background-image: url(../media/retro.png) !important;
+    background-image: url("media/retro.png") !important;
 }
 
 .img-3 {
-    background-image: url(../media/chill.jpg) !important;
+    background-image: url("media/chill.jpg") !important;
 }
 
 .img-4 {
-    background-image: url(../media/workout.jpg) !important;
+    background-image: url("media/workout.jpg") !important;
 }
 
 .img-5 {
-    background-image: url(../media/rock.jpg) !important;
+    background-image: url("media/rock.jpg") !important;
 }
 
 .img-6 {
-    background-image: url(../media/pop.jpg) !important;
+    background-image: url("media/pop.jpg") !important;
 }
 
 .stations-para {
